@@ -1,0 +1,4 @@
+com/gerardojunior/ziprest/interfaces/CepService.class
+com/gerardojunior/ziprest/ZiprestApplication.class
+com/gerardojunior/ziprest/rest/CepRestService.class
+com/gerardojunior/ziprest/model/Endereco.class
