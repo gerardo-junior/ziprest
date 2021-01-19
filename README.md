@@ -17,7 +17,7 @@ you will need to have it installed on your pc
 [Java]
 [maven]
 
-`` bash
+```bash
 mvn spring-boot: run
 
-``
+```
