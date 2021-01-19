@@ -15,9 +15,12 @@ a very simple project, just to make a proxy to viacep.
 you will need to have it installed on your pc
 
 [Java]
+
 [maven]
 
 ```bash
 mvn spring-boot: run
 
 ```
+
+now you can ope http://lo:8080/01001000/json in your http client
