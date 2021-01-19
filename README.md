@@ -23,4 +23,4 @@ mvn spring-boot: run
 
 ```
 
-now you can ope http://lo:8080/01001000/json in your http client
+now you can ope http://localhost:8080/01001000/json in your http client
