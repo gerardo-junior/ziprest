@@ -8,7 +8,7 @@
     [+] TELEGRAM:     @gerardojunior
 ```
 
-a very simple project, just to make a proxy for viacep via rest.
+a very simple project, just to make a proxy to viacep.
 
 # how to run:
 
